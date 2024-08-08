@@ -1,13 +1,17 @@
-# 🌟 My Special Repository 🌟
+## Hi there, `You're Listening into Nithish's Port! 👋
+A passionate software developer focusing on user-centric design and development. I've been coding for 4 years and have a strong background in Frontend Technologies.
+
+## 🚀 What I Love
+I'm enthusiastic about Programming, Frontend Design, WebAPI, and New Technologies. From crafting elegant front-end interfaces using HTML, CSS, JS, jQuery, and Bootstrap to architecting robust solutions with recent trending languages, I'm always excited to dive deep into challenges.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nithish0120&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/Nithish0120?style=social)](https://github.com/Nithish0120)
 
 Welcome to my repository! Here, you’ll find projects and contributions that showcase my skills in various technologies.
 
-## 🛠️ Languages & Tools
+## 🔧 My Toolbox
 
-### 🧑‍💻 Programming & Scripting:
+### 💻 Programming & Scripting:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,6 +30,11 @@ Welcome to my repository! Here, you’ll find projects and contributions that sh
 
 #### Back-end:
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
+
+### 🌐 APIs & Tools:
+![REST](https://img.shields.io/badge/-REST-00A1E0?style=flat&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
 
 ### 🗃️ Databases & Engines:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
