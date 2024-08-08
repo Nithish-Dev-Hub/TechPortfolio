@@ -1,5 +1,3 @@
-Here's a creative README file for your repository:
-
 ---
 
 # 🌟 My Special Repository 🌟
