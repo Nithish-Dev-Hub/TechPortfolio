@@ -98,8 +98,38 @@ I believe in the power of collaborative learning. GitHub is not just a platform 
 
 I regularly share insights and tips on my [LinkedIn](https://www.linkedin.com/in/nithish-kumar-540a29193) to help others overcome coding hurdles and to stay updated on new technologies.
 
-### 📂 Code & Demos:
-[JSFiddle Profile](https://jsfiddle.net/user/nithish20120/fiddles/)
+## 📂 Code & Demos:
+
+### Featured Projects:
+### Thought Hub - React Blog Community
+- **Description**: A full-stack blog application with user authentication, allowing users to create, update, and delete their posts.
+- **Tech Stack**: MongoDB, Express.js, React.js, Node.js
+- **Features**:
+  - User authentication with JWT.
+  - CRUD operations for blog posts.
+- **GitHub Repository**: [MERN Blog App](https://github.com/Nithish0120/ThoughtHub)
+
+### Nuxt Ecommerce Site 
+- **Description**: A feature-rich e-commerce platform with a Landing Page.
+- **Tech Stack**: Vue.js, Vuex, Nuxt.js, 
+- **Features**:
+  - Real-time product search and filtering.
+  - Shopping cart with Stripe integration.
+  - Admin dashboard for managing products.
+- **GitHub Repository**: [E-commerce Platform](https://github.com/Nithish0120/Ecommerce-Landing-Page)
+
+### User Authentication
+- **Description**: Welcome to AuthPortal, a full-stack web application designed to make user authentication and profile management seamless and secure. With our application, users can easily register, login, and update their profiles, all while ensuring their sessions are managed securely using JWT.
+- **Tech Stack**: MongoDB, Express.js, React.js, Node.js
+- **Features**:
+  - Register a User: Create a new account by providing the necessary details.
+  - Login: Authenticate using your email and password.
+  - Update Profile: Update your user details as needed.
+  - Logout: Terminate the session and secure your account.
+- **GitHub Repository**: [User Authentication](https://github.com/Nithish0120/User_Authentication)
+  
+## Js Fiddle:
+- **PlayGround**: [JSFiddle Profile](https://jsfiddle.net/user/nithish20120/fiddles/)
 
 ## 🌟 Let's Connect
 
