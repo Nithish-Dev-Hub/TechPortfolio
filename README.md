@@ -90,6 +90,12 @@ Welcome to my repository! Here, you’ll find projects and contributions that sh
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Nithish0120&theme=tokyonight)
 
+## Certificates 
+
+- **React Certified (META):** [Certificates](https://drive.google.com/drive/folders/1tZTWVGBILBmhqsVzQz8laPhAYoGAc7So?usp=drive_link)
+- **Vue Certified (Udemy):** [Certificate](https://drive.google.com/drive/folders/1EkgMu0x0SKATQBkz7iYFo2T8O3yffh6M?usp=drive_link)
+- **Google Analytics (Great Learning):** [Certificate](https://drive.google.com/drive/folders/1kthCuUS4V93Or_OY44GOtdgw8Bg06YlA?usp=drive_link)
+
 ## 💡 Why GitHub
 
 I believe in the power of collaborative learning. GitHub is not just a platform for hosting code; it's a community that fosters knowledge sharing. I'm here to both contribute by sharing my projects and to learn from fellow developers.
