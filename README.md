@@ -5,7 +5,7 @@ A passionate software developer focusing on user-centric design and development.
 I'm enthusiastic about Programming, Frontend Design, WebAPI, and New Technologies. From crafting elegant front-end interfaces using HTML, CSS, JS, jQuery, and Bootstrap to architecting robust solutions with recent trending languages, I'm always excited to dive deep into challenges.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nithish0120&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/Nithish0120?style=social)](https://github.com/Nithish0120)
+[![GitHub followers](https://img.shields.io/github/followers/Nithish0120?style=social)](https://github.com/Nithish-Dev-Hub)
 
 Welcome to my repository! Here, you’ll find projects and contributions that showcase my skills in various technologies.
 
@@ -31,6 +31,15 @@ Welcome to my repository! Here, you’ll find projects and contributions that sh
 #### Back-end:
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
 
+### State Management:
+![REDUX](https://img.shields.io/badge/-Redux-CC6699?style=flat&logo=redux&logoColor=white)
+![PINIA](https://img.shields.io/badge/-Pinia-FDC300?style=flat&logo=pinia&logoColor=white)
+
+### 📐 Design Principles & Patterns:
+![SOLID](https://img.shields.io/badge/-SOLID-007ACC?style=flat&logo=solid&logoColor=white)
+![AtomicDesign](https://img.shields.io/badge/-Atomic%20Structure-FF6F61?style=flat&logo=atomic&logoColor=white)
+![MVC](https://img.shields.io/badge/-MVC-4CAF50?style=flat&logo=mvc&logoColor=white)
+
 ### 🌐 APIs & Tools:
 ![REST](https://img.shields.io/badge/-REST-00A1E0?style=flat&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
@@ -48,8 +57,10 @@ Welcome to my repository! Here, you’ll find projects and contributions that sh
 
 ### 🚀 CI/CD:
 ![TeamCity](https://img.shields.io/badge/-TeamCity-000000?style=flat&logo=teamcity&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=white)
 
 ### 🧩 Version Control & Other Tools:
+![BitBucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white)
 
@@ -113,7 +124,7 @@ I regularly share insights and tips on my [LinkedIn](https://www.linkedin.com/in
 - **Features**:
   - User authentication with JWT.
   - CRUD operations for blog posts.
-- **GitHub Repository**: [MERN Blog App](https://github.com/Nithish0120/ThoughtHub)
+- **GitHub Repository**: [MERN Blog App](https://github.com/Nithish-Dev-Hub/ThoughtHub)
 
 ### Nuxt Ecommerce Site 
 - **Description**: A feature-rich e-commerce platform with a Landing Page.
@@ -122,7 +133,7 @@ I regularly share insights and tips on my [LinkedIn](https://www.linkedin.com/in
   - Real-time product search and filtering.
   - Shopping cart with Stripe integration.
   - Admin dashboard for managing products.
-- **GitHub Repository**: [E-commerce Platform](https://github.com/Nithish0120/Ecommerce-Landing-Page)
+- **GitHub Repository**: [E-commerce Platform](https://github.com/Nithish-Dev-Hub/Ecommerce-Landing-Page)
 
 ### User Authentication
 - **Description**: Welcome to AuthPortal, a full-stack web application designed to make user authentication and profile management seamless and secure. With our application, users can easily register, login, and update their profiles, all while ensuring their sessions are managed securely using JWT.
@@ -132,7 +143,7 @@ I regularly share insights and tips on my [LinkedIn](https://www.linkedin.com/in
   - Login: Authenticate using your email and password.
   - Update Profile: Update your user details as needed.
   - Logout: Terminate the session and secure your account.
-- **GitHub Repository**: [User Authentication](https://github.com/Nithish0120/User_Authentication)
+- **GitHub Repository**: [User Authentication](https://github.com/Nithish-Dev-Hub/User_Authentication)
   
 ## Js Fiddle:
 - **PlayGround**: [JSFiddle Profile](https://jsfiddle.net/user/nithish20120/fiddles/)
@@ -142,7 +153,7 @@ I regularly share insights and tips on my [LinkedIn](https://www.linkedin.com/in
 I'm always open to connecting with fellow developers, discussing tech trends, and tackling coding challenges together. Feel free to drop me a message or connect with me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithish-kumar-540a29193)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nithish0120/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nithish-Dev-Hub/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ms.nithish.kumar.20@gmail.com)
 
 ## 🎨 Check Out My Graphic Design Work
